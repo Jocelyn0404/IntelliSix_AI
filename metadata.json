@@ -1,0 +1,7 @@
+{
+  "name": "IntelliSix AI Learning Assistant",
+  "description": "An adaptive, emotionally intelligent study assistant that tracks learning states (QS, SL, IS, EP, ES, PC) and provides personalized guidance, automated hints, and conversational support based on First-Order Logic rules.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
